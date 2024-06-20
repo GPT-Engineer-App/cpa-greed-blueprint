@@ -31,7 +31,7 @@ export default function Home() {
       <section className="bg-gray-200 py-16">
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold">The Blueprint to Your Financial Triumph</h2>
-          <p className="mt-4 text-lg">An engaging overview of the CPA-Greed-Complete-Guide, highlighting its role as the ultimate resource for generating substantial CPA marketing income through a mix of strategies. Emphasize the guide’s proven track record and adaptability to the digital marketing evolution, cementing its relevance in today's environment.</p>
+          <p className="mt-4 text-lg">An engaging overview of the CPA-Greed-Complete-Guide, highlighting its role as the ultimate resource for generating substantial CPA marketing income through a mix of strategies. Emphasize the guide&#39;s proven track record and adaptability to the digital marketing evolution, cementing its relevance in today&#39;s environment.</p>
         </div>
       </section>
 
@@ -64,7 +64,7 @@ export default function Home() {
             <li>Mitigate Risks: Diversify across multiple CPA accounts to safely scale your operations.</li>
             <li>Build Valuable Relationships: Gain insider knowledge and preferential terms through strategic affiliate manager connections.</li>
             <li>Long-term Growth: Transition your early gains into a sustainable revenue model with ethical marketing practices.</li>
-            <li>Compliance Assurance: Navigate the modern CPA landscape with strategies designed for today’s compliance demands.</li>
+            <li>Compliance Assurance: Navigate the modern CPA landscape with strategies designed for today&#39;s compliance demands.</li>
           </ul>
         </div>
       </section>
@@ -119,7 +119,7 @@ export default function Home() {
       <footer className="bg-gray-800 text-white py-12">
         <div className="container mx-auto px-6 text-center">
           <p>Quick Contact and Support: Offer straightforward options for support to build trust right from the start.</p>
-          <p className="mt-4">Ethical Promise: A brief disclaimer that emphasizes the guide’s commitment to ethical practices and compliance with all regulations.</p>
+          <p className="mt-4">Ethical Promise: A brief disclaimer that emphasizes the guide&#39;s commitment to ethical practices and compliance with all regulations.</p>
           <p className="mt-4">Value Assurance: Highlight money-back guarantees or user satisfaction promises to lower barriers to entry.</p>
         </div>
       </footer>
